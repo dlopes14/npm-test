@@ -1,9 +1,10 @@
 import './App.css';
-
+import {Title} from "./lib/components/Title/Title"
 function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <Title titulo= "componente" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
