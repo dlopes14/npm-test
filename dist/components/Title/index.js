@@ -10,4 +10,4 @@ Object.defineProperty(exports, "Title", {
   }
 });
 
-var _Title = require("./Title/Title");
+var _Title = require("./Title.jsx");

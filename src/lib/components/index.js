@@ -1,3 +1,1 @@
-import Title from './Title/Title'
-
-export {Title}
+export { Title } from "./Title/Title";

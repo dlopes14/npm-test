@@ -1,9 +1,9 @@
 {
   "name": "@impulsogov/lib-npm-test",
-  "version": "0.1.2",
+  "version": "0.2.1",
   "private": false,
-  "main": "dist/index.js",
-  "module": "dist/index.js",
+  "main": "dist/components/index.js",
+  "module": "dist/components/index.js",
   "files": [ "dist", "README.md" ],
 "repository": {
     "type": "git",
